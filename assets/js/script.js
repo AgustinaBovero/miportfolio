@@ -1,15 +1,15 @@
 $(document).ready(function(){
 
-  $("a").click(function(event){
+  $("a").click(function(event){      // SMOOTH SCROLLING
     if (this.hash !== "") {
       event.preventDefault();
 
-      var gato = this.hash;
+      var numeral = this.hash;
 
       $("html, body").animate({
-        scrollTop: $(gato).offset().top
+        scrollTop: $(numeral).offset().top
       }, 800, function(){
-        window.location.hash = gato;
+        window.location.hash = numeral;
       });
     }
   });
