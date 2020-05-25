@@ -29,6 +29,7 @@ header h1{
 
 #sobre-mi{
   font-family: 'Open Sans';
+  color: #373A3C;
 }
 
 #experiencia{
@@ -69,4 +70,5 @@ footer{
   background-color: #660066;
   height: 218px;
   font-family: 'Oswald';
+
 }
