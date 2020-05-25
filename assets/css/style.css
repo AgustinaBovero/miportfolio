@@ -2,6 +2,12 @@ nav{
   background-color: #660066;
 }
 
+#logo{
+  font-family: 'Oswald';
+  font-weight: bold;
+  font-size: 40px;
+}
+
 header{
   background-image: url('../img/agustina2.jpg');
   background-repeat: no-repeat;
@@ -26,7 +32,9 @@ header h1{
   font-family: 'Open Sans';
 }
 
-
+#experiencia{
+  font-family: 'Oswald';
+}
 #trabajos{
   background-color: #660066;
   font-family: 'Oswald';
@@ -49,6 +57,9 @@ header h1{
     font-weight: lighter;
 }
 
+#contacto{
+  font-family: 'Oswald';
+}
 
 footer{
   background-color: #660066;
