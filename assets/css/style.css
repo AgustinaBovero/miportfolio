@@ -1,5 +1,5 @@
 nav{
-  background-color: #660066;
+  background-color: #228B22;
 }
 
 #logo{
@@ -9,22 +9,26 @@ nav{
 }
 
 header{
-  background-image: url('../img/agustina2.jpg');
+  background-image: url('../img/agustina.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding-bottom: 40rem;
-  padding-top: 10rem;
+  padding-bottom: 35rem;
+  padding-top: 15rem;
   width: 100%;
   font-family: 'Oswald';
 }
 
 header h2{
   font-size: 72px;
+  color: white;
+  text-shadow: black 0.1em 0.1em 0.2em;
 }
 
 header h1{
   font-size: 72px;
+  color: white;
+  text-shadow: black 0.1em 0.1em 0.2em;
 }
 
 #sobre-mi{
@@ -32,6 +36,10 @@ header h1{
   color: #373A3C;
 }
 
+#sobre-mi h1{
+  font-family: 'Oswald';
+
+}
 #experiencia{
   font-family: 'Oswald';
 }
@@ -42,7 +50,7 @@ header h1{
 }
 
 #trabajos{
-  background-color: #660066;
+  background-color: #9ACD32;
   font-family: 'Oswald';
 }
 
@@ -67,7 +75,7 @@ header h1{
 }
 
 footer{
-  background-color: #660066;
+  background-color: #228B22;
   height: 218px;
   font-family: 'Oswald';
 

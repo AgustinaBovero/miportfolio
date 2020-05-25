@@ -13,4 +13,8 @@ $(document).ready(function(){
       });
     }
   });
+
+   $('[data-toggle="tooltip"]').tooltip()    // TOOLTIP
+
+   $("footer a").attr({target: "_blank"});   // TARGET _BLANK
 });
